@@ -73,6 +73,7 @@ I'm a Computer Science student at Lovely Professional University with a CGPA of 
 **Real Happiness of Life Foundation** - A responsive website for an NGO to showcase their mission, events, and donation options, improving page load time by 20%.
 
 [![Telegram Gemini UserBot](https://github-readme-stats.vercel.app/api/pin/?username=prammbhs&repo=telegram-gemini-userbot&theme=tokyonight)](https://github.com/prammbhs/telegram-gemini-userbot)
+
 **Telegram Gemini UserBot** - A Telegram userbot that integrates Google's Gemini AI for automated responses, content generation, and natural language processing directly within Telegram chats.
 
 </div>
