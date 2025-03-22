@@ -46,6 +46,8 @@ I'm a Computer Science student at Lovely Professional University with a CGPA of 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1A85FF?style=for-the-badge&logo=cursor&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
 
 ### 🤖 AI Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -54,6 +56,7 @@ I'm a Computer Science student at Lovely Professional University with a CGPA of 
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Tabnine](https://img.shields.io/badge/Tabnine-5D4AEC?style=for-the-badge&logo=tabnine&logoColor=white)
+![AI Studio](https://img.shields.io/badge/AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -62,8 +65,15 @@ I'm a Computer Science student at Lovely Professional University with a CGPA of 
 <div align="center">
 
 [![Billing App](https://github-readme-stats.vercel.app/api/pin/?username=prammbhs&repo=bill-app-webbased&theme=tokyonight)](https://github.com/prammbhs/bill-app-webbased)
+
+**Billing App with Gemini Integration** - A billing application with AI-powered features using Gemini API to automate invoice generation and error detection, reducing manual errors by 30%.
+
 [![NGO Website](https://github-readme-stats.vercel.app/api/pin/?username=prammbhs&repo=modifyrhlf&theme=tokyonight)](https://github.com/prammbhs/modifyrhlf)
+
+**Real Happiness of Life Foundation** - A responsive website for an NGO to showcase their mission, events, and donation options, improving page load time by 20%.
+
 [![Telegram Gemini UserBot](https://github-readme-stats.vercel.app/api/pin/?username=prammbhs&repo=telegram-gemini-userbot&theme=tokyonight)](https://github.com/prammbhs/telegram-gemini-userbot)
+**Telegram Gemini UserBot** - A Telegram userbot that integrates Google's Gemini AI for automated responses, content generation, and natural language processing directly within Telegram chats.
 
 </div>
 
